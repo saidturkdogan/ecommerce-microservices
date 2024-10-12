@@ -1,8 +1,8 @@
-[error] sbt.librarymanagement.ResolveException: Error downloading com.typesafe.akka:akka-actor_2.13:2.9.6
+[error] sbt.librarymanagement.ResolveException: Error downloading com.typesafe.akka:akka-http_2.13:10.6.3
 [error]   Not found
 [error]   Not found
-[error]   not found: C:\Users\PC\.ivy2\localcom.typesafe.akka\akka-actor_2.13\2.9.6\ivys\ivy.xml
-[error]   not found: https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.9.6/akka-actor_2.13-2.9.6.pom
+[error]   not found: C:\Users\PC\.ivy2\localcom.typesafe.akka\akka-http_2.13\10.6.3\ivys\ivy.xml
+[error]   not found: https://repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.6.3/akka-http_2.13-10.6.3.pom
 [error] 	at lmcoursier.CoursierDependencyResolution.unresolvedWarningOrThrow(CoursierDependencyResolution.scala:346)
 [error] 	at lmcoursier.CoursierDependencyResolution.$anonfun$update$39(CoursierDependencyResolution.scala:315)
 [error] 	at scala.util.Either$LeftProjection.map(Either.scala:573)
@@ -31,8 +31,8 @@
 [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
 [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
 [error] 	at java.base/java.lang.Thread.run(Thread.java:833)
-[error] (ssExtractDependencies) sbt.librarymanagement.ResolveException: Error downloading com.typesafe.akka:akka-actor_2.13:2.9.6
+[error] (ssExtractDependencies) sbt.librarymanagement.ResolveException: Error downloading com.typesafe.akka:akka-http_2.13:10.6.3
 [error]   Not found
 [error]   Not found
-[error]   not found: C:\Users\PC\.ivy2\localcom.typesafe.akka\akka-actor_2.13\2.9.6\ivys\ivy.xml
-[error]   not found: https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.9.6/akka-actor_2.13-2.9.6.pom
+[error]   not found: C:\Users\PC\.ivy2\localcom.typesafe.akka\akka-http_2.13\10.6.3\ivys\ivy.xml
+[error]   not found: https://repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.6.3/akka-http_2.13-10.6.3.pom

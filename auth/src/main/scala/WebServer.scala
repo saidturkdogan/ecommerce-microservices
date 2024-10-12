@@ -9,13 +9,14 @@ object WebServer {
 
     val route =
       path("hello") {
-        get{
-          complete("Hello Scala")
+        get {
+          complete("asdasda")
         }
       }
 
-    val bindingFuture = Http().newServerAt("localhost",8181).bind(route)
-    println(s"Server online at http://localhost:8080/\nPress RETURN to stop...")
+
+    val bindingFuture = Http().newServerAt("localhost",4444).bind(route)
+    println(s"Server online at http://localhost:4444/\nPress RETURN to stop...")
 
   }
 
