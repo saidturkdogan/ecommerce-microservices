@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="api-gateway,api-gateway.payment,auth,cart,ecommerce-microservices,order,payment,product" />
+    <profile name="sbt 1" modules="analytics,api-gateway,api-gateway.payment,auth,cart,ecommerce-microservices,inventory,notification,order,payment,product,recommendation,shared,shipping" />
   </component>
 </project>

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analytics/.idea/modules/analytics-build.iml" filepath="$PROJECT_DIR$/analytics/.idea/modules/analytics-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/api-gateway/.idea/modules/api-gateway-build.iml" filepath="$PROJECT_DIR$/api-gateway/.idea/modules/api-gateway-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/api-gateway/payment/.idea/modules/api-gateway.payment.iml" filepath="$PROJECT_DIR$/api-gateway/payment/.idea/modules/api-gateway.payment.iml" />
@@ -11,6 +13,10 @@
       <module fileurl="file://$PROJECT_DIR$/cart/.idea/modules/cart-build.iml" filepath="$PROJECT_DIR$/cart/.idea/modules/cart-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ecommerce-microservices.iml" filepath="$PROJECT_DIR$/.idea/modules/ecommerce-microservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ecommerce-microservices-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ecommerce-microservices-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventory.iml" filepath="$PROJECT_DIR$/.idea/modules/inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory/.idea/modules/inventory-build.iml" filepath="$PROJECT_DIR$/inventory/.idea/modules/inventory-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notification.iml" filepath="$PROJECT_DIR$/.idea/modules/notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification/.idea/modules/notification-build.iml" filepath="$PROJECT_DIR$/notification/.idea/modules/notification-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/order.iml" filepath="$PROJECT_DIR$/.idea/modules/order.iml" />
       <module fileurl="file://$PROJECT_DIR$/order/.idea/modules/order-build.iml" filepath="$PROJECT_DIR$/order/.idea/modules/order-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/payment.iml" filepath="$PROJECT_DIR$/.idea/modules/payment.iml" />
@@ -18,6 +24,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/product.iml" filepath="$PROJECT_DIR$/.idea/modules/product.iml" />
       <module fileurl="file://$PROJECT_DIR$/product/.idea/modules/product-build.iml" filepath="$PROJECT_DIR$/product/.idea/modules/product-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/payment/.idea/modules/project.payment-build.iml" filepath="$PROJECT_DIR$/payment/.idea/modules/project.payment-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recommendation.iml" filepath="$PROJECT_DIR$/.idea/modules/recommendation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recommendation/.idea/modules/recommendation-build.iml" filepath="$PROJECT_DIR$/recommendation/.idea/modules/recommendation-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/.idea/modules/shared-build.iml" filepath="$PROJECT_DIR$/shared/.idea/modules/shared-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shipping.iml" filepath="$PROJECT_DIR$/.idea/modules/shipping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shipping/.idea/modules/shipping-build.iml" filepath="$PROJECT_DIR$/shipping/.idea/modules/shipping-build.iml" />
     </modules>
   </component>
 </project>

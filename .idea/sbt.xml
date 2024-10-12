@@ -14,6 +14,16 @@
         <option name="sbtVersion" value="1.10.2" />
       </SbtProjectSettings>
       <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/analytics" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/analytics" />
+            <option value="$PROJECT_DIR$/analytics/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.10.2" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/api-gateway" />
         <option name="modules">
           <set>
@@ -54,6 +64,26 @@
         <option name="sbtVersion" value="1.10.2" />
       </SbtProjectSettings>
       <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/inventory" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/inventory" />
+            <option value="$PROJECT_DIR$/inventory/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.10.2" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/notification" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/notification" />
+            <option value="$PROJECT_DIR$/notification/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.10.2" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/order" />
         <option name="modules">
           <set>
@@ -79,6 +109,36 @@
           <set>
             <option value="$PROJECT_DIR$/product" />
             <option value="$PROJECT_DIR$/product/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.10.2" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/recommendation" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/recommendation" />
+            <option value="$PROJECT_DIR$/recommendation/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.10.2" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/shared" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/shared" />
+            <option value="$PROJECT_DIR$/shared/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.10.2" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/shipping" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/shipping" />
+            <option value="$PROJECT_DIR$/shipping/project" />
           </set>
         </option>
         <option name="sbtVersion" value="1.10.2" />
