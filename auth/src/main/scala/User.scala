@@ -18,7 +18,7 @@ object MyWebServer {
 
     val route = {
       cors(){
-        path("users") {
+        path("said") {
           get {
             complete(User("John Doe", "johndoe@example.com"))
           } ~
